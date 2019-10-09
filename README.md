@@ -18,3 +18,15 @@ It:
 - Downloads 'portable' version of Java
 - Everything is self contained to the bootstrap directory.
 - Integrates well with the other 'bootstrap_' suite of apps.
+
+## Usage.
+
+- Run ```bootstrap_jenkins.bat```
+- Extract ```zulu-11-azure*.zip``` to ```zulu-11-azure```
+- Run ```run_jenkins.bat```
+- Setup Jenkins at http://127.0.0.1:8080
+- Don't tell your boss and volunteer to get more done with less.
+
+## Todo:
+
+- *More* automation.
